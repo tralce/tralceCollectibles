@@ -1,0 +1,76 @@
+v2021-11-16
+New version numbering scheme. Clarification of text. Added github repo.
+
+v1.3.0
+2021-11-10
+Fixed Campfire Kit. Added Witch's Bonfire Dust. Thanks, Temsol.
+
+v1.2.9
+2021-11-10
+Added Storm Atronach Transform. Thanks, Mr.Envy! Removed mounts and pets to be placed in tralce's Vanity Keybinds.
+
+v1.2.8
+2021-11-06
+Added Relic of the Sentinel. Thanks, @Armicus!
+
+v1.2.7
+2021-11-01
+Added Void Shard (thanks @grahamscox!) and Ghrasharog, Armory Assistant
+
+v1.2.6
+2021-10-10
+Added Agonymium Stone and Mostly Stable Juggling Potions. Thanks,
+@WitchyWoman42 and @sleepy_worm! Incremented API version.
+
+v1.2.5
+2021-08-23
+Added Impartial Decision Coin and Illusory Coin. Thanks, @Seric_Bain!
+
+v1.2.4
+2021-08-17
+Added Murderous Strike (thanks @pw1!) and Inferno Cleats. Also, Waking Flame
+compatability.
+
+v1.2.3
+2021-07-04
+Added Baron Jangleplume and Peddler of Prizes. Thanks, @AllSetNutz!
+
+v1.2.2
+2021-06-08
+Added Twilight Shard, Wall of Life Brush. Thanks, offshade!
+
+v1.2.1
+2021-06-05
+Added Kick Ball, Bonesnap Binding Stone, Prismatic Banner Ribbon, Juggler's Knives.
+
+v1.2
+2021-06-01
+API to 100035. Added Bastian and Mirri
+
+v1.1
+2021-03-04
+Added some code to force key chording on
+
+v1.0-5
+2021-01-30
+Optimization, tweaks
+
+v1.0-4
+2021-01-30
+Added Nirnroot Wine
+
+v1.0-3
+2021-01-25
+Added Dwarven Theodolite, Dwarven Spider, Dragon Flight Illusion Gem
+
+v1.0-2
+2021-01-20
+Added Temporary Candlefly Lantern
+
+v1.0-1
+2021-01-19
+Added Dragonhorn Curio, Malacath's Wrathful Flame, Neramo's Lightning Stick
+
+v1.0
+2021-01-19
+Initial version
