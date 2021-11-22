@@ -58,3 +58,5 @@ Feel free to recommend more in the comments! Ideally also with the Collectible I
 Now includes some code that allows multi-key keybinds (AKA Chording).
 
 This is a fork of code65536's [URL="https://www.esoui.com/downloads/info2309-KeybindingMiscellaneousMementos.html"]Keybinding: Miscellaneous Mementos[/URL] addon.
+
+[URL="https://github.com/tralce/tralceCollectibles"]GitHub[/URL]
