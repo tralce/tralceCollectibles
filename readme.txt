@@ -4,6 +4,7 @@ Tools
 [LIST]
 [*]Antiquarian's Eye
 [*]Relic of the Sentinel
+[*]Finvir's Trinket
 [/LIST]
 
 Allies
@@ -25,11 +26,8 @@ Mementos
 [*]Agonymium Stone
 [*]Bonesnap Binding Stone
 [*]Campfire Kit
-[*]Cherry Blossom Branch
 [*]Dragon Flight Illusion Gem
 [*]Dragonhorn Curio
-[*]Everlasting Snowball
-[*]Finvir's Trinket
 [*]Illusory Coin
 [*]Impartial Decision Coin
 [*]Inferno Cleats
@@ -37,8 +35,6 @@ Mementos
 [*]Kick Ball
 [*]Malacath's Wrathful Flame
 [*]Mostly Stable Juggling Potions
-[*]Mud Ball Pouch
-[*]Murderous Strike
 [*]Neramo's Lightning Stick
 [*]Nirnroot Wine
 [*]Prismatic Banner Ribbon
@@ -49,6 +45,14 @@ Mementos
 [*]Void Shard
 [*]Wall of Life Brush
 [*]Witch's Bonfire Dust
+[/LIST]
+
+Throwables
+[LIST]
+[*]Cherry Blossom Branch
+[*]Everlasting Snowball
+[*]Mud Ball Pouch
+[*]Murderous Strike
 [/LIST]
 
 Grab my other addon, [URL="https://www.esoui.com/downloads/info3233-tralcesVanityKeybinds.html"]tralce's Vanity Keybinds[/URL], while you're at it!

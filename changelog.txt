@@ -1,5 +1,6 @@
-v2021-11-16
+v2021-11-23
 New version numbering scheme. Clarification of text. Added github repo.
+Reorganized some code. Added categories.
 
 v1.3.0
 2021-11-10
@@ -7,7 +8,8 @@ Fixed Campfire Kit. Added Witch's Bonfire Dust. Thanks, Temsol.
 
 v1.2.9
 2021-11-10
-Added Storm Atronach Transform. Thanks, Mr.Envy! Removed mounts and pets to be placed in tralce's Vanity Keybinds.
+Added Storm Atronach Transform. Thanks, Mr.Envy! Removed mounts and pets to be
+placed in tralce's Vanity Keybinds.
 
 v1.2.8
 2021-11-06

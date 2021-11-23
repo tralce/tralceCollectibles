@@ -1,6 +1,9 @@
 <Bindings>
   <Layer name="SI_KEYBINDINGS_LAYER_GENERAL">
     <Category name="|ceb00f1-tralce's Keybinds - Tools-|r">
+      <Action name="TRINKET">
+        <Down>UseCollectible(336)</Down>
+      </Action>
       <Action name="EYE">
         <Down>UseCollectible(8006)</Down>
       </Action>
@@ -41,9 +44,6 @@
       </Action>
     </Category>
     <Category name="|ceb00f1-tralce's Keybinds - Mementos-|r">
-      <Action name="TRINKET">
-        <Down>UseCollectible(336)</Down>
-      </Action>
       <Action name="NIRNROOTWINE">
         <Down>UseCollectible(344)</Down>
       </Action>
@@ -62,20 +62,11 @@
       <Action name="JUGGKNIVES">
         <Down>UseCollectible(598)</Down>
       </Action>
-      <Action name="MUDBALL">
-        <Down>UseCollectible(601)</Down>
-      </Action>
-      <Action name="BLOSSOMS">
-        <Down>UseCollectible(1108)</Down>
-      </Action>
       <Action name="TSHARD">
         <Down>UseCollectible(1158)</Down>
       </Action>
       <Action name="LIGHTNINGSTICK">
         <Down>UseCollectible(1228)</Down>
-      </Action>
-      <Action name="MURDSTRIKE">
-        <Down>UseCollectible(1385)</Down>
       </Action>
       <Action name="KICKBALL">
         <Down>UseCollectible(5733)</Down>
@@ -88,9 +79,6 @@
       </Action>
       <Action name="DRAGONHORN">
         <Down>UseCollectible(6641)</Down>
-      </Action>
-      <Action name="SNOWBALL">
-        <Down>UseCollectible(6932)</Down>
       </Action>
       <Action name="WALLLIFE">
         <Down>UseCollectible(7225)</Down>
@@ -122,11 +110,25 @@
       <Action name="AGONYMIUM">
         <Down>UseCollectible(9591)</Down>
       </Action>
+    </Category>
+    <Category name="|ceb00f1-tralce's Keybinds - Throwables-|r">
+      <Action name="MUDBALL">
+        <Down>UseCollectible(601)</Down>
+      </Action>
+      <Action name="BLOSSOMS">
+        <Down>UseCollectible(1108)</Down>
+      </Action>
+      <Action name="MURDSTRIKE">
+        <Down>UseCollectible(1385)</Down>
+      </Action>
+      <Action name="SNOWBALL">
+        <Down>UseCollectible(6932)</Down>
+      </Action>
+    </Category>
       <!--
       <Action name="">
         <Down>UseCollectible()</Down>
       </Action>
       -->
-      </Category>
-    </Layer>
-  </Bindings>
+  </Layer>
+</Bindings>
