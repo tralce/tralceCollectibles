@@ -55,11 +55,13 @@ if not KEYBINDING_MANAGER.IsChordingAlwaysEnabled or not KEYBINDING_MANAGER:IsCh
   end
 end
 
+--[[
 local function SpamChatWarning()
   zo_callLater(function()
     d("tralce's Collectible Keybinds: in the next release I will be making a couple code changes, and these may result in you needing to re-bind your keys. Back them up now!")
   end, 2000)
 end
+]]--
 
 local function OnAddOnLoaded( eventCode, addonName )
   if (addonName ~= tralceCollectibles.name) then return end
@@ -75,7 +77,7 @@ local function OnAddOnLoaded( eventCode, addonName )
 
 end
 
-EVENT_MANAGER:RegisterForEvent("TCK_SPAM", EVENT_PLAYER_ACTIVATED, SpamChatWarning)
+-- EVENT_MANAGER:RegisterForEvent("TCK_SPAM", EVENT_PLAYER_ACTIVATED, SpamChatWarning)
 
 EVENT_MANAGER:RegisterForEvent(tralceCollectibles.name, EVENT_ADD_ON_LOADED, OnAddOnLoaded)
 
