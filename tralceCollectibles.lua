@@ -3,7 +3,7 @@ tralceCollectibles = {
 
   collectibles = {
     -- Tools --
-    [ 336] = "TRINKET",
+    [ 336] = "tool_FinvirsTrinket",
     [8006] = "EYE",
     [8883] = "RELICSENTINEL",
     -- Assistants --

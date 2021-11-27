@@ -1,7 +1,7 @@
 <Bindings>
   <Layer name="SI_KEYBINDINGS_LAYER_GENERAL">
     <Category name="|ceb00f1-tralce's Keybinds - Tools-|r">
-      <Action name="TRINKET">
+      <Action name="tool_FinvirsTrinket">
         <Down>UseCollectible(336)</Down>
       </Action>
       <Action name="EYE">
