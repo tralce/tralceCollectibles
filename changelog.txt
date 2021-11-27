@@ -1,3 +1,6 @@
+v2021-11-27
+Added an on-login chat reminder to back up your binds in preparation for the next release. Write them down or take a screenshot. Also, sorry for the inconvenience, and I do not intend to ever have to do this again for tralce's Collectible Keybinds. This change comes before I add several new mementos in the next release.
+
 v2021-11-23
 New version numbering scheme. Clarification of text. Added github repo.
 Reorganized some code. Added categories.
