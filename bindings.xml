@@ -1,127 +1,127 @@
 <Bindings>
   <Layer name="SI_KEYBINDINGS_LAYER_GENERAL">
     <Category name="|ceb00f1-tralce's Keybinds - Tools-|r">
-      <Action name="tool_FinvirsTrinket">
+      <Action name="Tool_FinvirsTrinket">
         <Down>UseCollectible(336)</Down>
       </Action>
-      <Action name="tool_AntiquariansEye">
+      <Action name="Tool_AntiquariansEye">
         <Down>UseCollectible(8006)</Down>
       </Action>
-      <Action name="tool_RelicOfTheSentinel">
+      <Action name="Tool_RelicOfTheSentinel">
         <Down>UseCollectible(8883)</Down>
       </Action>
     </Category>
     <Category name="|ceb00f1-tralce's Keybinds - Assistants-|r">
-      <Action name="assistant_TythisAndromo">
+      <Action name="Asst_TythisAndromo">
         <Down>UseCollectible(267)</Down>
       </Action>
-      <Action name="assistant_Pirharri">
+      <Action name="Asst_Pirharri">
         <Down>UseCollectible(300)</Down>
       </Action>
-      <Action name="assistant_Nuzimeh">
+      <Action name="Asst_Nuzimeh">
         <Down>UseCollectible(301)</Down>
       </Action>
-      <Action name="assistant_Ezabi">
+      <Action name="Asst_Ezabi">
         <Down>UseCollectible(6376)</Down>
       </Action>
-      <Action name="assistant_Fezez">
+      <Action name="Asst_Fezez">
         <Down>UseCollectible(6378)</Down>
       </Action>
-      <Action name="assistant_BaronJangleplume">
+      <Action name="Asst_BaronJangleplume">
         <Down>UseCollectible(8994)</Down>
       </Action>
-      <Action name="assistant_PeddlerOfPrizes">
+      <Action name="Asst_PeddlerOfPrizes">
         <Down>UseCollectible(8995)</Down>
       </Action>
-      <Action name="companion_BastianHallix">
+      <Action name="Comp_BastianHallix">
         <Down>UseCollectible(9245)</Down>
       </Action>
-      <Action name="companion_MirriElendis">
+      <Action name="Comp_MirriElendis">
         <Down>UseCollectible(9353)</Down>
       </Action>
-      <Action name="assistant_Ghrashorog">
+      <Action name="Asst_Ghrashorog">
         <Down>UseCollectible(9745)</Down>
       </Action>
     </Category>
     <Category name="|ceb00f1-tralce's Keybinds - Mementos-|r">
-      <Action name="memento_NirnrootWine">
+      <Action name="Meme_NirnrootWine">
         <Down>UseCollectible(344)</Down>
       </Action>
-      <Action name="memento_BonesnapBindingStone">
+      <Action name="Meme_BonesnapBindingStone">
         <Down>UseCollectible(348)</Down>
       </Action>
-      <Action name="memento_MalacathsWrathfulFlame">
+      <Action name="Meme_MalacathsWrathfulFlame">
         <Down>UseCollectible(353)</Down>
       </Action>
-      <Action name="memento_CoinOfIllusoryRiches">
+      <Action name="Meme_CoinOfIllusoryRiches">
         <Down>UseCollectible(361)</Down>
       </Action>
-      <Action name="memento_StormAtronachTransform">
+      <Action name="Meme_StormAtronachTransform">
         <Down>UseCollectible(596)</Down>
       </Action>
-      <Action name="memento_JugglersKnives">
+      <Action name="Meme_JugglersKnives">
         <Down>UseCollectible(598)</Down>
       </Action>
-      <Action name="memento_TwilightShard">
+      <Action name="Meme_TwilightShard">
         <Down>UseCollectible(1158)</Down>
       </Action>
-      <Action name="memento_NeramosLightningStick">
+      <Action name="Meme_NeramosLightningStick">
         <Down>UseCollectible(1228)</Down>
       </Action>
-      <Action name="memento_KickBall">
+      <Action name="Meme_KickBall">
         <Down>UseCollectible(5733)</Down>
       </Action>
-      <Action name="memento_PrismaticBannerRibbon">
+      <Action name="Meme_PrismaticBannerRibbon">
         <Down>UseCollectible(5889)</Down>
       </Action>
-      <Action name="memento_DragonFlightIllusionGem">
+      <Action name="Meme_DragonFlightIllusionGem">
         <Down>UseCollectible(6046)</Down>
       </Action>
-      <Action name="memento_DragonhornCurio">
+      <Action name="Meme_DragonhornCurio">
         <Down>UseCollectible(6641)</Down>
       </Action>
-      <Action name="memento_WallOfLifeBrush">
+      <Action name="Meme_WallOfLifeBrush">
         <Down>UseCollectible(7225)</Down>
       </Action>
-      <Action name="memento_RitualCircleTotem">
+      <Action name="Meme_RitualCircleTotem">
         <Down>UseCollectible(7862)</Down>
       </Action>
-      <Action name="memento_CampfireKit">
+      <Action name="Meme_CampfireKit">
         <Down>UseCollectible(8008)</Down>
       </Action>
-      <Action name="memento_MostlyStableJugglingPotions">
+      <Action name="Meme_MostlyStableJugglingPotions">
         <Down>UseCollectible(8072)</Down>
       </Action>
-      <Action name="memento_TemproaryCandleflyLantern">
+      <Action name="Meme_TemproaryCandleflyLantern">
         <Down>UseCollectible(8656)</Down>
       </Action>
-      <Action name="memento_VoidShard">
+      <Action name="Meme_VoidShard">
         <Down>UseCollectible(8834)</Down>
       </Action>
-      <Action name="memento_InfernoCleats">
+      <Action name="Meme_InfernoCleats">
         <Down>UseCollectible(9361)</Down>
       </Action>
-      <Action name="memento_ImpartialDecisionCoin">
+      <Action name="Meme_ImpartialDecisionCoin">
         <Down>UseCollectible(9362)</Down>
       </Action>
-      <Action name="memento_WitchsBonfireDust">
+      <Action name="Meme_WitchsBonfireDust">
         <Down>UseCollectible(9530)</Down>
       </Action>
-      <Action name="memento_AgonymiumStone">
+      <Action name="Meme_AgonymiumStone">
         <Down>UseCollectible(9591)</Down>
       </Action>
     </Category>
     <Category name="|ceb00f1-tralce's Keybinds - Throwables-|r">
-      <Action name="throwable_MudBallPouch">
+      <Action name="Thro_MudBallPouch">
         <Down>UseCollectible(601)</Down>
       </Action>
-      <Action name="throwable_CherryBlossomBranch">
+      <Action name="Thro_CherryBlossomBranch">
         <Down>UseCollectible(1108)</Down>
       </Action>
-      <Action name="throwable_MurderousStrike">
+      <Action name="Thro_MurderousStrike">
         <Down>UseCollectible(1385)</Down>
       </Action>
-      <Action name="throwable_EverlastingSnowball">
+      <Action name="Thro_EverlastingSnowball">
         <Down>UseCollectible(6932)</Down>
       </Action>
     </Category>
