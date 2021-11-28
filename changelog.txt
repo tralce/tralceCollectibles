@@ -1,3 +1,7 @@
+v2021-11-27.1
+Removed faulty chatspam. Sorry all! Renamed a bunch of key-value pairs
+internally to make it easier to add mementos and to read the code.
+
 v2021-11-27
 Added an on-login chat reminder to back up your binds in preparation for the next release. Write them down or take a screenshot. Also, sorry for the inconvenience, and I do not intend to ever have to do this again for tralce's Collectible Keybinds. This change comes before I add several new mementos in the next release.
 
