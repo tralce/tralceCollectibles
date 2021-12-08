@@ -1,5 +1,3 @@
-[SIZE="5"][COLOR="Magenta"]In this release I have made a couple code changes, and these will result in you needing to re-bind your keys. Back them up before updating! Take a screenshot of them or write them down.[/COLOR][/SIZE]
-
 Tired of wasting a quickslot on things like Assistants, the Antiquarian's Eye, or certain often-used mementos? Assign them to a keybind instead!
 
 Questions? Comments? Donations? Hit me up in-game! @tralce, PC/NA
