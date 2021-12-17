@@ -45,6 +45,11 @@ tralceCollectibles = {
     [1108] = "Thro_CherryBlossomBranch",
     [6932] = "Thro_EverlastingSnowball",
     [1385] = "Thro_MurderousStrike",
+    -- XP --
+    [ 479] = "XP_WitchWhistle",
+    [1167] = "XP_PieofMisrule",
+    [1168] = "XP_BredasMead",
+    [9012] = "XP_Cake2021",
   }
 }
 

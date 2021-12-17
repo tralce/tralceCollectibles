@@ -125,6 +125,20 @@
         <Down>UseCollectible(6932)</Down>
       </Action>
     </Category>
+    <Category name="|ceb00f1-tralce's Keybinds - XP-|r">
+      <Action name="XP_WitchWhistle">
+        <Down>UseCollectible(479)</Down>
+      </Action>
+      <Action name="XP_PieofMisrule">
+        <Down>UseCollectible(1167)</Down>
+      </Action>
+      <Action name="XP_BredasMead">
+        <Down>UseCollectible(1168)</Down>
+      </Action>
+      <Action name="XP_Cake2021">
+        <Down>UseCollectible(9012)</Down>
+      </Action>
+    </Category>
       <!--
       <Action name="">
         <Down>UseCollectible()</Down>

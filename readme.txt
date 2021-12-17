@@ -57,6 +57,14 @@ Throwables
 [*]Murderous Strike
 [/LIST]
 
+XP
+[LIST]
+[*]Breda's Bottomless Mead Mug
+[*]Jubilee Cake 2021
+[*]The Pie of Misrule
+[*]Witchmother's Whistle
+[/LIST]
+
 Grab my other addon, [URL="https://www.esoui.com/downloads/info3233-tralcesVanityKeybinds.html"]tralce's Vanity Keybinds[/URL], while you're at it!
 
 Feel free to recommend more in the comments! Ideally also with the Collectible ID, which you can get by linking your collectible in chat, and copying and pasting the link into your comment.
