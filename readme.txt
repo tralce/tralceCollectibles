@@ -26,27 +26,48 @@ Allies
 Mementos
 [LIST]
 [*]Agonymium Stone
+[*]Antiquarian's Telescope
+[*]Battered Bear Trap
+[*]Black Feather Court Whistle
 [*]Bonesnap Binding Stone
 [*]Campfire Kit
+[*]Clockwork Obscuros
+[*]Daedric Unwarding Amulet
 [*]Dragon Flight Illusion Gem
 [*]Dragonhorn Curio
+[*]Dreamer's Chime
+[*]Fetish Of Anger
+[*]Full-Scale Golden Anvil Replica
 [*]Illusory Coin
 [*]Impartial Decision Coin
 [*]Inferno Cleats
 [*]Juggler's Knives
 [*]Kick Ball
+[*]Lodorr's Crown
 [*]Malacath's Wrathful Flame
+[*]Mezha-dro's Sealing Amulet
+[*]Miniature Dwarven Sun
 [*]Mostly Stable Juggling Potions
+[*]Murkmire Grave-Stake
+[*]Nanwen Sword
 [*]Neramo's Lightning Stick
 [*]Nirnroot Wine
 [*]Prismatic Banner Ribbon
+[*]Questionable Meat Sack
 [*]Ritual Circle Totem
+[*]Sea Sload Dorsal Fin
 [*]Storm Atronach Transform
+[*]Tempermental Grimoire
 [*]Temporary Candlefly Lantern
+[*]Token Of Root Sunder
 [*]Twilight Shard
+[*]Umbral Projector
 [*]Void Shard
 [*]Wall of Life Brush
+[*]Wilting Weed Killer Phial
 [*]Witch's Bonfire Dust
+[*]Wyrd Elemental Plume
+[*]Yokudan Totem
 [/LIST]
 
 Throwables
