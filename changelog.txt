@@ -1,3 +1,6 @@
+v2021-12-19
+Merged RuffaWuffa's pull request to add 21 mementos. Thanks so much!
+
 v2021-12-16
 Added seasonal XP mementos.
 
