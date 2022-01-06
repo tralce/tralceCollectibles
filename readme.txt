@@ -1,6 +1,6 @@
 Tired of wasting a quickslot on things like Assistants, the Antiquarian's Eye, or certain often-used mementos? Assign them to a keybind instead!
 
-Questions? Comments? Donations? Hit me up in-game! @tralce, PC/NA
+Questions? Comments? Donations? Hit me up in-game! @tralce, PC/NA. Hint: I really like treasure maps.
 
 Tools
 [LIST]
