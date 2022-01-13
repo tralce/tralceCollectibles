@@ -4,6 +4,7 @@ Questions? Comments? Donations? Hit me up in-game! @tralce, PC/NA. Hint: I reall
 
 Tools
 [LIST]
+[*]Almalexia's Enchanted Lantern
 [*]Antiquarian's Eye
 [*]Relic of the Sentinel
 [*]Finvir's Trinket

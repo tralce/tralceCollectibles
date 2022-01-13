@@ -4,6 +4,7 @@ tralceCollectibles = {
   collectibles = {
     -- Tools --
     [ 336] = "Tool_FinvirsTrinket",
+    [ 341] = "Tool_AlmalexiasEnchantedLantern",
     [8006] = "Tool_AntiquariansEye",
     [8883] = "Tool_RelicOfTheSentinel",
     -- Assistants --

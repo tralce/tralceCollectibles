@@ -1,3 +1,6 @@
+v2022-01-09
+Added Almalexia's Enchanted Lantern
+
 v2021-12-19
 Merged RuffaWuffa's pull request to add 21 mementos. Thanks so much!
 
