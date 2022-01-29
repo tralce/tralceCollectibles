@@ -1,3 +1,6 @@
+v2022-01-28
+Added latest assistants. Thanks, @G103Prince!
+
 v2022-01-09
 Added Almalexia's Enchanted Lantern
 

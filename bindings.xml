@@ -42,6 +42,12 @@
       <Action name="Comp_MirriElendis">
         <Down>UseCollectible(9353)</Down>
       </Action>
+      <Action name="Asst_FactotumPropertySteward">
+        <Down>UseCollectible(9743)</Down>
+      </Action>
+      <Action name="Asst_FactotumCommerceDelegate">
+        <Down>UseCollectible(9744)</Down>
+      </Action>
       <Action name="Asst_Ghrashorog">
         <Down>UseCollectible(9745)</Down>
       </Action>

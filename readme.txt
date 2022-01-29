@@ -15,6 +15,8 @@ Allies
 [*]Baron Jangleplume
 [*]Bastian Hallix
 [*]Ezabi the Banker
+[*]Factotum Commerce Delegate
+[*]Factotum Property Steward
 [*]Fezez the Merchant
 [*]Ghrasharog, Armory Assistant
 [*]Mirri Elendis

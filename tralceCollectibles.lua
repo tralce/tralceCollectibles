@@ -17,6 +17,8 @@ tralceCollectibles = {
     [8995] = "Asst_PeddlerOfPrizes",
     [9245] = "Comp_BastianHallix",
     [9353] = "Comp_MirriElendis",
+    [9743] = "Asst_FactotumPropertySteward",
+    [9744] = "Asst_FactotumCommerceDelegate",
     [9745] = "Asst_Ghrashorog",
     -- Mementos --
     [ 335] = "Meme_BlackFeatherCourtWhistle",
