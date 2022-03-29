@@ -51,6 +51,9 @@
       <Action name="Asst_Ghrashorog">
         <Down>UseCollectible(9745)</Down>
       </Action>
+      <Action name="Asst_Giladil_the_Ragpicker">
+        <Down>UseCollectible(10184)</Down>
+      </Action>
     </Category>
     <Category name="|ceb00f1-tralce's Keybinds - Mementos-|r">
       <Action name="Meme_BlackFeatherCourtWhistle">

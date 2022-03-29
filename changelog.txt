@@ -1,3 +1,6 @@
+v2022-03-29
+Added Giladil the Ragpicker
+
 v2022-01-28
 Added latest assistants. Thanks, @G103Prince!
 

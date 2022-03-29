@@ -19,6 +19,7 @@ Allies
 [*]Factotum Property Steward
 [*]Fezez the Merchant
 [*]Ghrasharog, Armory Assistant
+[*]Giladil the Ragpicker
 [*]Mirri Elendis
 [*]Nuzhimeh the Merchant
 [*]Peddler of Prizes
