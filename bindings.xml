@@ -210,8 +210,8 @@
       <Action name="XP_BredasMead">
         <Down>UseCollectible(1168)</Down>
       </Action>
-      <Action name="XP_Cake2021">
-        <Down>UseCollectible(9012)</Down>
+      <Action name="XP_Cake2022">
+        <Down>UseCollectible(10287)</Down>
       </Action>
     </Category>
       <!--
