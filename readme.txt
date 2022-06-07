@@ -2,6 +2,8 @@ Tired of wasting a quickslot on things like Assistants, the Antiquarian's Eye, o
 
 Questions? Comments? Donations? Hit me up in-game! @tralce, PC/NA. Hint: I really like treasure maps.
 
+[COLOR="Red"][B]When you unlock a collectible, you must /reloadui or re-log before a bind will appear![/B][/COLOR]
+
 Tools
 [LIST]
 [*]Almalexia's Enchanted Lantern
