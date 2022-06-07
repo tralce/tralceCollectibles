@@ -14,12 +14,14 @@ Allies
 [LIST]
 [*]Baron Jangleplume
 [*]Bastian Hallix
+[*]Ember
 [*]Ezabi the Banker
 [*]Factotum Commerce Delegate
 [*]Factotum Property Steward
 [*]Fezez the Merchant
 [*]Ghrasharog, Armory Assistant
 [*]Giladil the Ragpicker
+[*]Isobel Veloise
 [*]Mirri Elendis
 [*]Nuzhimeh the Merchant
 [*]Peddler of Prizes

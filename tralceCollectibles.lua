@@ -20,6 +20,8 @@ tralceCollectibles = {
     [ 9743] = "Asst_FactotumPropertySteward",
     [ 9744] = "Asst_FactotumCommerceDelegate",
     [ 9745] = "Asst_Ghrashorog",
+    [ 9911] = "Comp_Ember",
+    [ 9912] = "Comp_IsobelVeloise",
     [10184] = "Asst_Giladil_the_Ragpicker",
     -- Mementos --
     [  335] = "Meme_BlackFeatherCourtWhistle",
