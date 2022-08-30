@@ -1,3 +1,6 @@
+v2022-08-30
+API update
+
 v2022-06-06
 Added High Isle companions
 
