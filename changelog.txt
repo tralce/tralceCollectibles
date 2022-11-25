@@ -1,3 +1,6 @@
+v2022-11-25
+API update, added Zuqoth. Thanks, Clattuc!
+
 v2022-08-30
 API update
 

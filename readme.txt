@@ -29,6 +29,7 @@ Allies
 [*]Peddler of Prizes
 [*]Pirharri the Smuggler
 [*]Tythis Andromo the Banker
+[*]Zuqoth, Armory Advisor
 [/LIST]
 
 Mementos

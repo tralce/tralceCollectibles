@@ -23,6 +23,7 @@ tralceCollectibles = {
     [ 9911] = "Comp_Ember",
     [ 9912] = "Comp_IsobelVeloise",
     [10184] = "Asst_Giladil_the_Ragpicker",
+    [10618] = "Asst_Zuqoth",
     -- Mementos --
     [  335] = "Meme_BlackFeatherCourtWhistle",
     [  337] = "Meme_LodorrsCrown",
