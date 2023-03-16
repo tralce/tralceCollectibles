@@ -60,7 +60,10 @@
       <Action name="Asst_Giladil_the_Ragpicker">
         <Down>UseCollectible(10184)</Down>
       </Action>
-       <Action name="Asst_Zuqoth">
+      <Action name="Asst_Aderene">
+        <Down>UseCollectible(10617)</Down>
+      </Action>
+      <Action name="Asst_Zuqoth">
         <Down>UseCollectible(10618)</Down>
       </Action>
     </Category>

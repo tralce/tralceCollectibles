@@ -14,6 +14,7 @@ Tools
 
 Allies
 [LIST]
+[*]Aderene, Fargrave Dregs Dealer
 [*]Baron Jangleplume
 [*]Bastian Hallix
 [*]Ember
