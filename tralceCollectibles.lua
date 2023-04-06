@@ -78,7 +78,7 @@ tralceCollectibles = {
     [  479] = "XP_WitchWhistle",
     [ 1167] = "XP_PieofMisrule",
     [ 1168] = "XP_BredasMead",
-    [10287] = "XP_Cake2022",
+    [11089] = "XP_Cake2023",
   }
 }
 

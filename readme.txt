@@ -91,7 +91,7 @@ Throwables
 XP
 [LIST]
 [*]Breda's Bottomless Mead Mug
-[*]Jubilee Cake 2022
+[*]Jubilee Cake 202e
 [*]The Pie of Misrule
 [*]Witchmother's Whistle
 [/LIST]
