@@ -15,6 +15,7 @@ Tools
 Allies
 [LIST]
 [*]Aderene, Fargrave Dregs Dealer
+[*]Azandar Al-Cybiades
 [*]Baron Jangleplume
 [*]Bastian Hallix
 [*]Ember
@@ -29,6 +30,7 @@ Allies
 [*]Nuzhimeh the Merchant
 [*]Peddler of Prizes
 [*]Pirharri the Smuggler
+[*]Sharp-As-Night
 [*]Tythis Andromo the Banker
 [*]Zuqoth, Armory Advisor
 [/LIST]

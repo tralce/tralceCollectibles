@@ -25,6 +25,8 @@ tralceCollectibles = {
     [10184] = "Asst_Giladil_the_Ragpicker",
     [10617] = "Asst_Aderene",
     [10618] = "Asst_Zuqoth",
+    [11113] = "Comp_SharpAsNight",
+    [11114] = "Comp_Azandar",
     -- Mementos --
     [  335] = "Meme_BlackFeatherCourtWhistle",
     [  337] = "Meme_LodorrsCrown",

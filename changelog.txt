@@ -1,3 +1,6 @@
+v2023-04-21
+API update. Added Sharp-As-Night and Azandar Al-Cybiades. Thanks, azzazzellice!
+
 v2023-04-06
 Added Jubilee Cake 2023
 

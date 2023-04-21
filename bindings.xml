@@ -66,6 +66,12 @@
       <Action name="Asst_Zuqoth">
         <Down>UseCollectible(10618)</Down>
       </Action>
+      <Action name="Comp_SharpAsNight">
+        <Down>UseCollectible(11113)</Down>
+      </Action>
+      <Action name="Comp_Azandar">
+        <Down>UseCollectible(11114)</Down>
+      </Action>
     </Category>
     <Category name="|ceb00f1-tralce's Keybinds - Mementos-|r">
       <Action name="Meme_BlackFeatherCourtWhistle">
