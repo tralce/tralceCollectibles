@@ -66,6 +66,12 @@
       <Action name="Asst_Zuqoth">
         <Down>UseCollectible(10618)</Down>
       </Action>
+      <Action name="Asst_Hoarfrost">
+        <Down>UseCollectible(11059)</Down>
+      </Action>
+      <Action name="Asst_Pyroclast">
+        <Down>UseCollectible(11097)</Down>
+      </Action>
       <Action name="Comp_SharpAsNight">
         <Down>UseCollectible(11113)</Down>
       </Action>

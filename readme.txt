@@ -25,11 +25,13 @@ Allies
 [*]Fezez the Merchant
 [*]Ghrasharog, Armory Assistant
 [*]Giladil the Ragpicker
+[*]Hoarfrost
 [*]Isobel Veloise
 [*]Mirri Elendis
 [*]Nuzhimeh the Merchant
 [*]Peddler of Prizes
 [*]Pirharri the Smuggler
+[*]Pyroclast
 [*]Sharp-As-Night
 [*]Tythis Andromo the Banker
 [*]Zuqoth, Armory Advisor

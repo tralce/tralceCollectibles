@@ -25,6 +25,8 @@ tralceCollectibles = {
     [10184] = "Asst_Giladil_the_Ragpicker",
     [10617] = "Asst_Aderene",
     [10618] = "Asst_Zuqoth",
+    [11059] = "Asst_Hoarfrost",
+    [11097] = "Asst_Pyroclast",
     [11113] = "Comp_SharpAsNight",
     [11114] = "Comp_Azandar",
     -- Mementos --

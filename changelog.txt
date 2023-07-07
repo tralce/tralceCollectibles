@@ -1,3 +1,6 @@
+v2023-07-07
+Added Hoarfrost and Pyroclast. Thanks, IceMan!
+
 v2023-04-21
 API update. Added Sharp-As-Night and Azandar Al-Cybiades. Thanks, azzazzellice!
 
