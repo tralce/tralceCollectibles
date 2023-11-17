@@ -29,6 +29,7 @@ tralceCollectibles = {
     [11097] = "Asst_Pyroclast",
     [11113] = "Comp_SharpAsNight",
     [11114] = "Comp_Azandar",
+    [11876] = "Asst_Drinweth",
     -- Mementos --
     [  335] = "Meme_BlackFeatherCourtWhistle",
     [  337] = "Meme_LodorrsCrown",

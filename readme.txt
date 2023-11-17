@@ -18,6 +18,7 @@ Allies
 [*]Azandar Al-Cybiades
 [*]Baron Jangleplume
 [*]Bastian Hallix
+[*]Drinweth, Valenwood Armorer
 [*]Ember
 [*]Ezabi the Banker
 [*]Factotum Commerce Delegate
@@ -99,6 +100,8 @@ XP
 [*]The Pie of Misrule
 [*]Witchmother's Whistle
 [/LIST]
+
+If you prefer using slash commands, check out [URL="https://esoui.com/downloads/info2469-SlashShopFenceandBank.html"]Slash Shop, Fence, and Bank (and More)[/URL]
 
 Grab my other addon, [URL="https://www.esoui.com/downloads/info3233-tralcesVanityKeybinds.html"]tralce's Vanity Keybinds[/URL], while you're at it!
 

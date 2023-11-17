@@ -1,3 +1,6 @@
+v2023-11-17
+Added Drinweth, Valenwood Armorer. Thanks, g0thicicecream (for the rec) and Circuitous (for the ID)!
+
 v2023-07-07
 Added Hoarfrost and Pyroclast. Thanks, IceMan!
 
