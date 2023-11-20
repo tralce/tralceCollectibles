@@ -8,7 +8,7 @@ Mount tools
 [LIST]
 [*]Set Random Mount active
 [*]Set Random Favorite Mount active
-[*]Ride a group member's Multi-Rider Mount (Code borrowed from [URL="https://www.esoui.com/downloads/info3560-RidinDirty.html"]RidinDirty[/URL]
+[*]Ride a group member's Multi-Rider Mount (Code borrowed from [URL="https://www.esoui.com/downloads/info3560-RidinDirty.html"]RidinDirty[/URL])
 [/LIST]
 
 Tools
@@ -103,7 +103,7 @@ Throwables
 XP
 [LIST]
 [*]Breda's Bottomless Mead Mug
-[*]Jubilee Cake 202e
+[*]Jubilee Cake 2023
 [*]The Pie of Misrule
 [*]Witchmother's Whistle
 [/LIST]
