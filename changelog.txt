@@ -1,3 +1,6 @@
+v2023-11-20
+Added Random Mount, Random Favorite Mount, and Mount Group Member binds.
+
 v2023-11-17
 Added Drinweth, Valenwood Armorer. Thanks, g0thicicecream (for the rec) and Circuitous (for the ID)!
 

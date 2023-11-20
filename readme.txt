@@ -4,6 +4,13 @@ Questions? Comments? Donations? Hit me up in-game! @tralce, PC/NA. Hint: I reall
 
 [COLOR="Red"][B]When you unlock a collectible, you must /reloadui or re-log before a bind will appear![/B][/COLOR]
 
+Mount tools
+[LIST]
+[*]Set Random Mount active
+[*]Set Random Favorite Mount active
+[*]Ride a group member's Multi-Rider Mount (Code borrowed from [URL="https://www.esoui.com/downloads/info3560-RidinDirty.html"]RidinDirty[/URL]
+[/LIST]
+
 Tools
 [LIST]
 [*]Almalexia's Enchanted Lantern
@@ -103,7 +110,7 @@ XP
 
 If you prefer using slash commands, check out [URL="https://esoui.com/downloads/info2469-SlashShopFenceandBank.html"]Slash Shop, Fence, and Bank (and More)[/URL]
 
-Grab my other addon, [URL="https://www.esoui.com/downloads/info3233-tralcesVanityKeybinds.html"]tralce's Vanity Keybinds[/URL], while you're at it!
+Grab my other addon, [URL="https://www.esoui.com/downloads/info3233-tralcesVanityKeybinds.html"]tralce's Vanity Keybinds[/URL], while you're at it! (Update 2023-11-20 - added 9 Multi-Rider Mounts to tralceVantiy!)
 
 Feel free to recommend more in the comments! Ideally also with the Collectible ID, which you can get by linking your collectible in chat, and copying and pasting the link into your comment. OR submit a PR on GitHub!
 

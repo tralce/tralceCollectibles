@@ -97,6 +97,10 @@ end
 local function OnAddOnLoaded( eventCode, addonName )
   if (addonName ~= tralceCollectibles.name) then return end
 
+	ZO_CreateStringId("SI_BINDING_NAME_Mount_Player", "Mount Group Member")
+  ZO_CreateStringId("SI_BINDING_NAME_Mount_RandomFav", "Set Mount to Random Favorite")
+  ZO_CreateStringId("SI_BINDING_NAME_Mount_Random", "Set Mount to Random")
+
   EVENT_MANAGER:UnregisterForEvent(tralceCollectibles.name, EVENT_ADD_ON_LOADED)
 
   for id, code in pairs(tralceCollectibles.collectibles) do
@@ -106,6 +110,39 @@ local function OnAddOnLoaded( eventCode, addonName )
     end
   end
 
+end
+
+-- Function shamelessly stolen from RidinDirty
+function tralceCollectibles.DistanceToUnit(unitID)
+	local _, selfX, selfY, selfH = GetUnitWorldPosition("player")
+	local _, targetX, targetY, targetH = GetUnitWorldPosition(unitID)
+	local nDistance = zo_distance3D(targetX, targetY, targetH, selfX, selfY, selfH) / 100
+	return nDistance
+end
+
+-- Function shamelessly stolen from RidinDirty
+function tralceCollectibles.MountPlayer()
+  local displayNamePref = nil
+  local isMountable = false
+  if IsUnitDeadOrReincarnating("player") or IsUnitInCombat("player") or IsMounted() or HasPendingCompanion() then
+    df("|cff0055Unable to mount|r")
+    return
+  end
+  for iD = 1, GetGroupSize() do
+    local playerID = GetGroupUnitTagByIndex(iD)
+    local playerCharName = GetUnitName(playerID)
+    local playerDisplayName = GetUnitDisplayName(playerID)
+    local mountedState, hasEnabledGroupMount, hasFreePassengerSlot = GetTargetMountedStateInfo(playerDisplayName)
+    if mountedState == MOUNTED_STATE_MOUNT_RIDER and hasEnabledGroupMount and hasFreePassengerSlot then isMountable = true else isMountable = false end
+    if not ZO_ShouldPreferUserId() then displayNamePref = playerCharName else displayNamePref = playerDisplayName end
+    displayNamePref = zo_strformat("<<1>>", displayNamePref)
+    if playerDisplayName ~= GetUnitDisplayName("player") and IsUnitOnline(playerID) and IsUnitInGroupSupportRange(playerID) and isMountable and tralceCollectibles.DistanceToUnit(playerID) < 5.0 then
+      df("|cff0055Attempting to mount|r")
+      UseMountAsPassenger(playerDisplayName)
+      return
+    end
+  end
+  df("|cff0055Unable to mount|r")
 end
 
 EVENT_MANAGER:RegisterForEvent(tralceCollectibles.name, EVENT_ADD_ON_LOADED, OnAddOnLoaded)
