@@ -242,13 +242,13 @@
       </Action>
     </Category>
     <Category name="|ceb00f1-tralce's Keybinds - Random Mounts-|r">
-			<Action name="Mount_Player">
+			<Action name="trC_Mount_Player">
 				<Down>tralceCollectibles.MountPlayer()</Down>
 			</Action>
-      <Action name="Mount_Random">
+      <Action name="trC_Mount_Random">
         <Down>SetRandomMountType(2)</Down>
       </Action>
-      <Action name="Mount_RandomFav">
+      <Action name="trC_Mount_RandomFav">
         <Down>SetRandomMountType(1)</Down>
       </Action>
     </Category>

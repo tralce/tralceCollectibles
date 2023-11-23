@@ -97,9 +97,9 @@ end
 local function OnAddOnLoaded( eventCode, addonName )
   if (addonName ~= tralceCollectibles.name) then return end
 
-	ZO_CreateStringId("SI_BINDING_NAME_Mount_Player", "Mount Group Member")
-  ZO_CreateStringId("SI_BINDING_NAME_Mount_RandomFav", "Set Mount to Random Favorite")
-  ZO_CreateStringId("SI_BINDING_NAME_Mount_Random", "Set Mount to Random")
+	ZO_CreateStringId("SI_BINDING_NAME_trC_Mount_Player", "Mount Group Member")
+  ZO_CreateStringId("SI_BINDING_NAME_trC_Mount_RandomFav", "Set Mount to Random Favorite")
+  ZO_CreateStringId("SI_BINDING_NAME_trC_Mount_Random", "Set Mount to Random")
 
   EVENT_MANAGER:UnregisterForEvent(tralceCollectibles.name, EVENT_ADD_ON_LOADED)
 

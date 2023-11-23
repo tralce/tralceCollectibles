@@ -1,3 +1,6 @@
+v2023-11-22
+Fixed a bug. Thanks, DohNotAgain!
+
 v2023-11-20
 Added Random Mount, Random Favorite Mount, and Mount Group Member binds.
 
