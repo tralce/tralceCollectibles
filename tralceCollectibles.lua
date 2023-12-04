@@ -97,7 +97,7 @@ end
 local function OnAddOnLoaded( eventCode, addonName )
   if (addonName ~= tralceCollectibles.name) then return end
 
-	ZO_CreateStringId("SI_BINDING_NAME_trC_Mount_Player", "Mount Group Member")
+  ZO_CreateStringId("SI_BINDING_NAME_trC_Mount_Player", "Mount Group Member")
   ZO_CreateStringId("SI_BINDING_NAME_trC_Mount_RandomFav", "Set Mount to Random Favorite")
   ZO_CreateStringId("SI_BINDING_NAME_trC_Mount_Random", "Set Mount to Random")
 
@@ -112,12 +112,27 @@ local function OnAddOnLoaded( eventCode, addonName )
 
 end
 
+function tralceCollectibles.PrintCooldownOrUseCollectible(collectibleID)
+  local collectibleName = GetCollectibleInfo(collectibleID)
+  local collectibleCurrCooldown, collectibleMaxCooldown = GetCollectibleCooldownAndDuration(collectibleID)
+  if collectibleCurrCooldown > 0 then
+    df("|cff0055" .. collectibleName .. ": " .. math.floor(collectibleCurrCooldown/1000) .. " seconds remaining (" .. collectibleMaxCooldown/1000 .. " second cooldown)|r")
+  else
+    UseCollectible(collectibleID)
+  end
+end
+
+function tralceCollectibles.SetRdmMount(mountID, friendlyName)
+  SetRandomMountType(mountID)
+  df("|cff0055Equipping " .. friendlyName .. " Mount...|r")
+end
+
 -- Function shamelessly stolen from RidinDirty
 function tralceCollectibles.DistanceToUnit(unitID)
-	local _, selfX, selfY, selfH = GetUnitWorldPosition("player")
-	local _, targetX, targetY, targetH = GetUnitWorldPosition(unitID)
-	local nDistance = zo_distance3D(targetX, targetY, targetH, selfX, selfY, selfH) / 100
-	return nDistance
+  local _, selfX, selfY, selfH = GetUnitWorldPosition("player")
+  local _, targetX, targetY, targetH = GetUnitWorldPosition(unitID)
+  local nDistance = zo_distance3D(targetX, targetY, targetH, selfX, selfY, selfH) / 100
+  return nDistance
 end
 
 -- Function shamelessly stolen from RidinDirty

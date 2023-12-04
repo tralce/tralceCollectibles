@@ -8,7 +8,7 @@
         <Down>UseCollectible(341)</Down>
       </Action>
       <Action name="Tool_AntiquariansEye">
-        <Down>UseCollectible(8006)</Down>
+        <Down>tralceCollectibles.PrintCooldownOrUseCollectible(8006)</Down>
       </Action>
       <Action name="Tool_RelicOfTheSentinel">
         <Down>UseCollectible(8883)</Down>
@@ -246,10 +246,10 @@
 				<Down>tralceCollectibles.MountPlayer()</Down>
 			</Action>
       <Action name="trC_Mount_Random">
-        <Down>SetRandomMountType(2)</Down>
+        <Down>tralceCollectibles.SetRdmMount(2,"Random")</Down>
       </Action>
       <Action name="trC_Mount_RandomFav">
-        <Down>SetRandomMountType(1)</Down>
+        <Down>tralceCollectibles.SetRdmMount(1, "Random Favorite")</Down>
       </Action>
     </Category>
       <!--

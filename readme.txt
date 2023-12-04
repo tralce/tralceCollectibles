@@ -4,6 +4,8 @@ Questions? Comments? Donations? Hit me up in-game! @tralce, PC/NA. Hint: I reall
 
 [COLOR="Red"][B]When you unlock a collectible, you must /reloadui or re-log before a bind will appear![/B][/COLOR]
 
+Now includes an inoffensive chat notification when a memento is on cooldown and preventing Antiquarian's Eye from being used, and when switching to a Random or Random Favorite mount.
+
 Mount tools
 [LIST]
 [*]Set Random Mount active

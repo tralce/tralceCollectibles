@@ -1,3 +1,6 @@
+v2023-12-04
+Added a chat notification if a memento is on cooldown preventing use of the Antiquarian's Eye.
+
 v2023-11-22
 Fixed a bug. Thanks, DohNotAgain!
 
