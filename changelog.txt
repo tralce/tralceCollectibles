@@ -1,3 +1,6 @@
+v2024-01-02
+Added Astral Aura Projector. Thanks, Rainbow_Stay!
+
 v2023-12-04
 Added a chat notification if a memento is on cooldown preventing use of the Antiquarian's Eye.
 

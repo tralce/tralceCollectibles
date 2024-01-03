@@ -51,6 +51,7 @@ Mementos
 [LIST]
 [*]Agonymium Stone
 [*]Antiquarian's Telescope
+[*]Astral Aura Projector
 [*]Battered Bear Trap
 [*]Black Feather Court Whistle
 [*]Bonesnap Binding Stone

@@ -74,6 +74,7 @@ tralceCollectibles = {
     [ 9364] = "Meme_WiltingWeedKillerPhial",
     [ 9530] = "Meme_WitchsBonfireDust",
     [ 9591] = "Meme_AgonymiumStone",
+    [ 9862] = "Meme_AstralAura",
     -- Throwables --
     [  601] = "Thro_MudBallPouch",
     [ 1108] = "Thro_CherryBlossomBranch",

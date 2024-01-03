@@ -212,6 +212,9 @@
       <Action name="Meme_AgonymiumStone">
         <Down>UseCollectible(9591)</Down>
       </Action>
+      <Action name="Meme_AstralAura">
+        <Down>UseCollectible(9862)</Down>
+      </Action>
     </Category>
     <Category name="|ceb00f1-tralce's Keybinds - Throwables-|r">
       <Action name="Thro_MudBallPouch">
