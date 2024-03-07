@@ -2,10 +2,10 @@
   <Layer name="SI_KEYBINDINGS_LAYER_GENERAL">
     <Category name="|ceb00f1-tralce's Keybinds - Tools-|r">
       <Action name="Tool_FinvirsTrinket">
-        <Down>UseCollectible(336)</Down>
+        <Down>tralceCollectibles.PrintCooldownOrUseCollectible(336)</Down>
       </Action>
       <Action name="Tool_AlmalexiasEnchantedLantern">
-        <Down>UseCollectible(341)</Down>
+        <Down>tralceCollectibles.PrintCooldownOrUseCollectible(341)</Down>
       </Action>
       <Action name="Tool_AntiquariansEye">
         <Down>tralceCollectibles.PrintCooldownOrUseCollectible(8006)</Down>
@@ -82,166 +82,18 @@
         <Down>UseCollectible(11876)</Down>
       </Action>
     </Category>
-    <Category name="|ceb00f1-tralce's Keybinds - Mementos-|r">
-      <Action name="Meme_BlackFeatherCourtWhistle">
-        <Down>UseCollectible(335)</Down>
-      </Action>
-      <Action name="Meme_LodorrsCrown">
-        <Down>UseCollectible(337)</Down>
-      </Action>
-      <Action name="Meme_QuestionableMeatSack">
-        <Down>UseCollectible(342)</Down>
-      </Action>
-      <Action name="Meme_BatteredBearTrap">
-        <Down>UseCollectible(343)</Down>
-      </Action>
-      <Action name="Meme_NirnrootWine">
-        <Down>UseCollectible(344)</Down>
-      </Action>
-      <Action name="Meme_FetishOfAnger">
-        <Down>UseCollectible(347)</Down>
-      </Action>
-      <Action name="Meme_BonesnapBindingStone">
-        <Down>UseCollectible(348)</Down>
-      </Action>
-      <Action name="Meme_TokenOfRootSunder">
-        <Down>UseCollectible(349)</Down>
-      </Action>
-      <Action name="Meme_YokudanTotem">
-        <Down>UseCollectible(350)</Down>
-      </Action>
-      <Action name="Meme_Mezha-drosSealingAmulet">
-        <Down>UseCollectible(351)</Down>
-      </Action>
-      <Action name="Meme_NanwenSword">
-        <Down>UseCollectible(352)</Down>
-      </Action>
-      <Action name="Meme_MalacathsWrathfulFlame">
-        <Down>UseCollectible(353)</Down>
-      </Action>
-      <Action name="Meme_CoinOfIllusoryRiches">
-        <Down>UseCollectible(361)</Down>
-      </Action>
-      <Action name="Meme_StormAtronachTransform">
-        <Down>UseCollectible(596)</Down>
-      </Action>
-      <Action name="Meme_JugglersKnives">
-        <Down>UseCollectible(598)</Down>
-      </Action>
-      <Action name="Meme_TwilightShard">
-        <Down>UseCollectible(1158)</Down>
-      </Action>
-      <Action name="Meme_NeramosLightningStick">
-        <Down>UseCollectible(1228)</Down>
-      </Action>
-      <Action name="Meme_DreamersChime">
-        <Down>UseCollectible(1229)</Down>
-      </Action>
-      <Action name="Meme_ClockworkObscuros">
-        <Down>UseCollectible(1382)</Down>
-      </Action>
-      <Action name="Meme_UmbralProjector">
-        <Down>UseCollectible(4663)</Down>
-      </Action>
-      <Action name="Meme_WyrdElementalPlume">
-        <Down>UseCollectible(4789)</Down>
-      </Action>
-      <Action name="Meme_SeaSloadDorsalFin">
-        <Down>UseCollectible(5036)</Down>
-      </Action>
-      <Action name="Meme_MurkmireGrave-Stake">
-        <Down>UseCollectible(5234)</Down>
-      </Action>
-      <Action name="Meme_KickBall">
-        <Down>UseCollectible(5733)</Down>
-      </Action>
-      <Action name="Meme_PrismaticBannerRibbon">
-        <Down>UseCollectible(5889)</Down>
-      </Action>
-      <Action name="Meme_DragonFlightIllusionGem">
-        <Down>UseCollectible(6046)</Down>
-      </Action>
-      <Action name="Meme_DragonhornCurio">
-        <Down>UseCollectible(6641)</Down>
-      </Action>
-      <Action name="Meme_WallOfLifeBrush">
-        <Down>UseCollectible(7225)</Down>
-      </Action>
-      <Action name="Meme_MiniatureDwarvenSun">
-        <Down>UseCollectible(7596)</Down>
-      </Action>
-      <Action name="Meme_RitualCircleTotem">
-        <Down>UseCollectible(7862)</Down>
-      </Action>
-      <Action name="Meme_AntiquariansTelescope">
-        <Down>UseCollectible(7863)</Down>
-      </Action>
-      <Action name="Meme_CampfireKit">
-        <Down>UseCollectible(8008)</Down>
-      </Action>
-      <Action name="Meme_MostlyStableJugglingPotions">
-        <Down>UseCollectible(8072)</Down>
-      </Action>
-      <Action name="Meme_TemproaryCandleflyLantern">
-        <Down>UseCollectible(8656)</Down>
-      </Action>
-      <Action name="Meme_TempermentalGrimoire">
-        <Down>UseCollectible(8831)</Down>
-      </Action>
-      <Action name="Meme_VoidShard">
-        <Down>UseCollectible(8834)</Down>
-      </Action>
-      <Action name="Meme_DaedricUnwardingAmulet">
-        <Down>UseCollectible(9007)</Down>
-      </Action>
-      <Action name="Meme_InfernoCleats">
-        <Down>UseCollectible(9361)</Down>
-      </Action>
-      <Action name="Meme_ImpartialDecisionCoin">
-        <Down>UseCollectible(9362)</Down>
-      </Action>
-      <Action name="Meme_Full-ScaleGoldenAnvilReplica">
-        <Down>UseCollectible(9363)</Down>
-      </Action>
-      <Action name="Meme_WiltingWeedKillerPhial">
-        <Down>UseCollectible(9364)</Down>
-      </Action>
-      <Action name="Meme_WitchsBonfireDust">
-        <Down>UseCollectible(9530)</Down>
-      </Action>
-      <Action name="Meme_AgonymiumStone">
-        <Down>UseCollectible(9591)</Down>
-      </Action>
-      <Action name="Meme_AstralAura">
-        <Down>UseCollectible(9862)</Down>
-      </Action>
-    </Category>
     <Category name="|ceb00f1-tralce's Keybinds - Throwables-|r">
       <Action name="Thro_MudBallPouch">
-        <Down>UseCollectible(601)</Down>
+        <Down>tralceCollectibles.PrintCooldownOrUseCollectible(601)</Down>
       </Action>
       <Action name="Thro_CherryBlossomBranch">
-        <Down>UseCollectible(1108)</Down>
+        <Down>tralceCollectibles.PrintCooldownOrUseCollectible(1108)</Down>
       </Action>
       <Action name="Thro_MurderousStrike">
-        <Down>UseCollectible(1385)</Down>
+        <Down>tralceCollectibles.PrintCooldownOrUseCollectible(1385)</Down>
       </Action>
       <Action name="Thro_EverlastingSnowball">
-        <Down>UseCollectible(6932)</Down>
-      </Action>
-    </Category>
-    <Category name="|ceb00f1-tralce's Keybinds - XP-|r">
-      <Action name="XP_WitchWhistle">
-        <Down>UseCollectible(479)</Down>
-      </Action>
-      <Action name="XP_PieofMisrule">
-        <Down>UseCollectible(1167)</Down>
-      </Action>
-      <Action name="XP_BredasMead">
-        <Down>UseCollectible(1168)</Down>
-      </Action>
-      <Action name="XP_Cake2023">
-        <Down>UseCollectible(11089)</Down>
+        <Down>tralceCollectibles.PrintCooldownOrUseCollectible(6932)</Down>
       </Action>
     </Category>
     <Category name="|ceb00f1-tralce's Keybinds - Random Mounts-|r">
@@ -253,6 +105,11 @@
       </Action>
       <Action name="trC_Mount_RandomFav">
         <Down>tralceCollectibles.SetRdmMount(1, "Random Favorite")</Down>
+      </Action>
+    </Category>
+    <Category name="|ceb00f1-tralce's Keybinds - Mementos-|r">
+      <Action name="Meme_PrismaticBannerRibbon">
+        <Down>UseCollectible(5889)</Down>
       </Action>
     </Category>
       <!--

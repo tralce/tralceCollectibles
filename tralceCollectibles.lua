@@ -30,61 +30,13 @@ tralceCollectibles = {
     [11113] = "Comp_SharpAsNight",
     [11114] = "Comp_Azandar",
     [11876] = "Asst_Drinweth",
-    -- Mementos --
-    [  335] = "Meme_BlackFeatherCourtWhistle",
-    [  337] = "Meme_LodorrsCrown",
-    [  342] = "Meme_QuestionableMeatSack",
-    [  343] = "Meme_BatteredBearTrap",
-    [  344] = "Meme_NirnrootWine",
-    [  347] = "Meme_FetishOfAnger",
-    [  348] = "Meme_BonesnapBindingStone",
-    [  349] = "Meme_TokenOfRootSunder",
-    [  350] = "Meme_YokudanTotem",
-    [  351] = "Meme_Mezha-drosSealingAmulet",
-    [  352] = "Meme_NanwenSword",
-    [  353] = "Meme_MalacathsWrathfulFlame",
-    [  361] = "Meme_CoinOfIllusoryRiches",
-    [  596] = "Meme_StormAtronachTransform",
-    [  598] = "Meme_JugglersKnives",
-    [ 1158] = "Meme_TwilightShard",
-    [ 1228] = "Meme_NeramosLightningStick",
-    [ 1229] = "Meme_DreamersChime",
-    [ 1382] = "Meme_ClockworkObscuros",
-    [ 4663] = "Meme_UmbralProjector",
-    [ 4789] = "Meme_WyrdElementalPlume",
-    [ 5036] = "Meme_SeaSloadDorsalFin",
-    [ 5234] = "Meme_MurkmireGrave-Stake",
-    [ 5733] = "Meme_KickBall",
-    [ 5889] = "Meme_PrismaticBannerRibbon",
-    [ 6046] = "Meme_DragonFlightIllusionGem",
-    [ 6641] = "Meme_DragonhornCurio",
-    [ 7225] = "Meme_WallOfLifeBrush",
-    [ 7596] = "Meme_MiniatureDwarvenSun",
-    [ 7862] = "Meme_RitualCircleTotem",
-    [ 7863] = "Meme_AntiquariansTelescope",
-    [ 8008] = "Meme_CampfireKit",
-    [ 8072] = "Meme_MostlyStableJugglingPotions",
-    [ 8656] = "Meme_TemproaryCandleflyLantern",
-    [ 8831] = "Meme_TempermentalGrimoire",
-    [ 8834] = "Meme_VoidShard",
-    [ 9007] = "Meme_DaedricUnwardingAmulet",
-    [ 9361] = "Meme_InfernoCleats",
-    [ 9362] = "Meme_ImpartialDecisionCoin",
-    [ 9363] = "Meme_Full-ScaleGoldenAnvilReplica",
-    [ 9364] = "Meme_WiltingWeedKillerPhial",
-    [ 9530] = "Meme_WitchsBonfireDust",
-    [ 9591] = "Meme_AgonymiumStone",
-    [ 9862] = "Meme_AstralAura",
     -- Throwables --
     [  601] = "Thro_MudBallPouch",
     [ 1108] = "Thro_CherryBlossomBranch",
     [ 6932] = "Thro_EverlastingSnowball",
     [ 1385] = "Thro_MurderousStrike",
-    -- XP --
-    [  479] = "XP_WitchWhistle",
-    [ 1167] = "XP_PieofMisrule",
-    [ 1168] = "XP_BredasMead",
-    [11089] = "XP_Cake2023",
+    -- Misc --
+    [ 5889] = "Meme_PrismaticBannerRibbon",
   }
 }
 
@@ -118,6 +70,10 @@ function tralceCollectibles.PrintCooldownOrUseCollectible(collectibleID)
   local collectibleCurrCooldown, collectibleMaxCooldown = GetCollectibleCooldownAndDuration(collectibleID)
   if collectibleCurrCooldown > 0 then
     df("|cff0055" .. collectibleName .. ": " .. math.floor(collectibleCurrCooldown/1000) .. " seconds remaining (" .. collectibleMaxCooldown/1000 .. " second cooldown)|r")
+    if chatspamQueued == nil then
+      chatspamQueued = 1
+      zo_callLater(function () df("|cff0055Cooldown complete - " .. collectibleName) chatspamQueued = nil end, collectibleCurrCooldown)
+    end
   else
     UseCollectible(collectibleID)
   end
