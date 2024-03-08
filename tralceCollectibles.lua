@@ -69,10 +69,10 @@ function tralceCollectibles.PrintCooldownOrUseCollectible(collectibleID)
   local collectibleName = GetCollectibleInfo(collectibleID)
   local collectibleCurrCooldown, collectibleMaxCooldown = GetCollectibleCooldownAndDuration(collectibleID)
   if collectibleCurrCooldown > 0 then
-    df("|cff0055" .. collectibleName .. ": " .. math.floor(collectibleCurrCooldown/1000) .. " seconds remaining (" .. collectibleMaxCooldown/1000 .. " second cooldown)|r")
+    df("|cff0055Can't use " .. collectibleName .. " - " .. math.floor(collectibleCurrCooldown/1000).. "s/" .. collectibleMaxCooldown/1000 .. "s cooldown remaining.|r")
     if chatspamQueued == nil then
       chatspamQueued = 1
-      zo_callLater(function () df("|cff0055Cooldown complete - " .. collectibleName) chatspamQueued = nil end, collectibleCurrCooldown)
+      zo_callLater(function () df("|cff0055Collectible cooldown complete!") chatspamQueued = nil end, collectibleCurrCooldown)
     end
   else
     UseCollectible(collectibleID)
