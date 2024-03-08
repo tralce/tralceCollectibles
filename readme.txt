@@ -4,7 +4,7 @@ Questions? Comments? Donations? Hit me up in-game! @tralce, PC/NA. Hint: I reall
 
 [COLOR="Red"][B]When you unlock a collectible, you must /reloadui or re-log before a bind will appear![/B][/COLOR]
 
-Now includes an inoffensive chat notification when a memento is on cooldown and preventing Antiquarian's Eye from being used, and when switching to a Random or Random Favorite mount.
+Now includes an inoffensive chat notification when a collectible is on cooldown and preventing it from being used, and when switching to a Random or Random Favorite mount.
 
 Mount tools
 [LIST]
@@ -62,9 +62,9 @@ Throwables
 
 If you prefer using slash commands, check out [URL="https://esoui.com/downloads/info2469-SlashShopFenceandBank.html"]Slash Shop, Fence, and Bank (and More)[/URL]
 
-Grab my other addon, [URL="https://www.esoui.com/downloads/info3233-tralcesVanityKeybinds.html"]tralce's Vanity Keybinds[/URL], while you're at it! (Update 2023-11-20 - added 9 Multi-Rider Mounts to tralceVantiy!)
+Grab my other addon, [URL="https://www.esoui.com/downloads/info3233-tralcesVanityKeybinds.html"]tralce's Vanity Keybinds[/URL] while you're at it, for more mementos, personalities, and more! (Update 2023-11-20 - added 9 Multi-Rider Mounts to tralceVantiy!)
 
-Feel free to recommend more in the comments! Ideally also with the Collectible ID, which you can get by linking your collectible in chat, and copying and pasting the link into your comment. OR submit a PR on GitHub!
+Feel free to recommend more in the comments! Ideally also with the Collectible ID, which you can get by linking your collectible in chat, and copying and pasting the link into your comment. Better yet, submit a PR on GitHub!
 
 Now includes some code that allows multi-key keybinds (AKA Chording).
 
