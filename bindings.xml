@@ -36,12 +36,6 @@
       <Action name="Asst_PeddlerOfPrizes">
         <Down>UseCollectible(8995)</Down>
       </Action>
-      <Action name="Comp_BastianHallix">
-        <Down>UseCollectible(9245)</Down>
-      </Action>
-      <Action name="Comp_MirriElendis">
-        <Down>UseCollectible(9353)</Down>
-      </Action>
       <Action name="Asst_FactotumPropertySteward">
         <Down>UseCollectible(9743)</Down>
       </Action>
@@ -50,12 +44,6 @@
       </Action>
       <Action name="Asst_Ghrashorog">
         <Down>UseCollectible(9745)</Down>
-      </Action>
-      <Action name="Comp_Ember">
-        <Down>UseCollectible(9911)</Down>
-      </Action>
-      <Action name="Comp_IsobelVeloise">
-        <Down>UseCollectible(9912)</Down>
       </Action>
       <Action name="Asst_Giladil_the_Ragpicker">
         <Down>UseCollectible(10184)</Down>
@@ -72,14 +60,31 @@
       <Action name="Asst_Pyroclast">
         <Down>UseCollectible(11097)</Down>
       </Action>
+      <Action name="Asst_Drinweth">
+        <Down>UseCollectible(11876)</Down>
+      </Action>
+      <Action name="Asst_Syn">
+        <Down>UseCollectible()</Down>
+      </Action>
+    </Category>
+    <Category name="|cff0055-tralce's Keybinds - Companions-|r">
+      <Action name="Comp_BastianHallix">
+        <Down>UseCollectible(9245)</Down>
+      </Action>
+      <Action name="Comp_MirriElendis">
+        <Down>UseCollectible(9353)</Down>
+      </Action>
+      <Action name="Comp_Ember">
+        <Down>UseCollectible(9911)</Down>
+      </Action>
+      <Action name="Comp_IsobelVeloise">
+        <Down>UseCollectible(9912)</Down>
+      </Action>
       <Action name="Comp_SharpAsNight">
         <Down>UseCollectible(11113)</Down>
       </Action>
       <Action name="Comp_Azandar">
         <Down>UseCollectible(11114)</Down>
-      </Action>
-      <Action name="Asst_Drinweth">
-        <Down>UseCollectible(11876)</Down>
       </Action>
     </Category>
     <Category name="|cff0055-tralce's Keybinds - Throwables-|r">

@@ -44,6 +44,7 @@ Allies
 [*]Pyroclast
 [*]Sharp-As-Night
 [*]Tythis Andromo the Banker
+[*]Xyn, Planar Purveyor
 [*]Zuqoth, Armory Advisor
 [/LIST]
 

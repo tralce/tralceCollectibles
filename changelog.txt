@@ -1,3 +1,6 @@
+v2024-05-09
+Split assistants and companions into separate categories. Added Xyn. Thanks, @Rainbow_Stay, DeanGrey, and g0thicicecream!
+
 v2024-03-08
 Moved a bunch of mementos over to tralce's Vanity Keybinds. API increment.
 Note: If you bound something that was moved to tralce's Vanity Keybinds, just install it and the binds should remain intact!
