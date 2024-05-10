@@ -63,7 +63,7 @@
       <Action name="Asst_Drinweth">
         <Down>UseCollectible(11876)</Down>
       </Action>
-      <Action name="Asst_Syn">
+      <Action name="Asst_Xyn">
         <Down>UseCollectible()</Down>
       </Action>
     </Category>
