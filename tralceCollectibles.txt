@@ -7,7 +7,7 @@
 ## Title: |cff0055tralce|r's Collectible Keybinds
 ## Description: Add keybindings for Tools, Assistants, Companions, and Mementos.
 ## Author: @tralce and @code65536
-## Version: 2024-05-09
+## Version: 2024-05-10
 ## APIVersion: 101041
 ## OptionalDependsOn: VotansKeybinder
 

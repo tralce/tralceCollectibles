@@ -1,3 +1,6 @@
+v2024-05-10
+Fixed a whoopsie dingle I made.
+
 v2024-05-09
 Split assistants and companions into separate categories. Added Xyn. Thanks, @Rainbow_Stay, DeanGrey, and g0thicicecream!
 
