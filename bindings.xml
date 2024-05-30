@@ -10,6 +10,9 @@
       <Action name="Tool_AntiquariansEye">
         <Down>tralceCollectibles.PrintCooldownOrUseCollectible(8006)</Down>
       </Action>
+      <Action name="Tool_CartMap">
+        <Down>UseCollectible(11083)</Down>
+      </Action>
       <Action name="Tool_RelicOfTheSentinel">
         <Down>UseCollectible(8883)</Down>
       </Action>

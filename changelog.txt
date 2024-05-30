@@ -1,3 +1,6 @@
+v2024-05-30
+Added Cartoklept Map. Thanks, tdc-nl!
+
 v2024-05-10.2
 Fixed a whoopsie dingle I made. Again. Maybe. It would really help if I had the g d thing unlocked.
 

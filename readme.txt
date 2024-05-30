@@ -17,6 +17,7 @@ Tools
 [LIST]
 [*]Almalexia's Enchanted Lantern
 [*]Antiquarian's Eye
+[*]Cartoklept Map
 [*]Relic of the Sentinel
 [*]Finvir's Trinket
 [/LIST]
