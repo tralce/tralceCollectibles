@@ -69,6 +69,9 @@
       <Action name="Asst_Xyn">
         <Down>UseCollectible(12414)</Down>
       </Action>
+      <Action name="Asst_Tzoz">
+        <Down>UseCollectible(11877)</Down>
+      </Action>
     </Category>
     <Category name="|cff0055-tralce's Keybinds - Companions-|r">
       <Action name="Comp_BastianHallix">

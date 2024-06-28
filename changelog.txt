@@ -1,3 +1,6 @@
+2024-06-28
+API increment, and added Tzozabrar, Dwarven Deconstructor. Thanks, Rainbow_Stay!
+
 v2024-05-30
 Added Cartoklept Map. Thanks, tdc-nl!
 

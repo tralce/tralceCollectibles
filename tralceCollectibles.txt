@@ -7,8 +7,8 @@
 ## Title: |cff0055tralce|r's Collectible Keybinds
 ## Description: Add keybindings for Tools, Assistants, Companions, and Mementos.
 ## Author: @tralce and @code65536
-## Version: 2024-05-30
-## APIVersion: 101041
+## Version: 2024-06-28
+## APIVersion: 101042
 ## OptionalDependsOn: VotansKeybinder
 
 tralceCollectibles.lua
