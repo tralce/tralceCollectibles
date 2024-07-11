@@ -30,6 +30,7 @@ Allies
 [*]Bastian Hallix
 [*]Drinweth, Valenwood Armorer
 [*]Ember
+[*]Eri, Barking Banker
 [*]Ezabi the Banker
 [*]Factotum Commerce Delegate
 [*]Factotum Property Steward
