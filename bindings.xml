@@ -16,6 +16,9 @@
       <Action name="Tool_RelicOfTheSentinel">
         <Down>UseCollectible(8883)</Down>
       </Action>
+      <Action name="Tool_EyeOfInfinite">
+        <Down>UseCollectible(12269)</Down>
+      </Action>
     </Category>
     <Category name="|cff0055-tralce's Keybinds - Assistants-|r">
       <Action name="Asst_TythisAndromo">

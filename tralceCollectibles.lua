@@ -8,6 +8,7 @@ tralceCollectibles = {
     [ 8006] = "Tool_AntiquariansEye",
     [ 8883] = "Tool_RelicOfTheSentinel",
     [11083] = "Tool_CartMap",
+    [12269] = "Tool_EyeOfInfinite",
     -- Assistants --
     [  267] = "Asst_TythisAndromo",
     [  300] = "Asst_Pirharri",
