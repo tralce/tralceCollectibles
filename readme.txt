@@ -46,9 +46,11 @@ Allies
 [*]Pirharri the Smuggler
 [*]Pyroclast
 [*]Sharp-As-Night
+[*]Tanlorin
 [*]Tythis Andromo the Banker
 [*]Tzozabrar, Dwarven Deconstructor
 [*]Xyn, Planar Purveyor
+[*]Zerith-var
 [*]Zuqoth, Armory Advisor
 [/LIST]
 

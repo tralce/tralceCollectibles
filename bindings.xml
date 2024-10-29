@@ -98,6 +98,12 @@
       <Action name="Comp_Azandar">
         <Down>UseCollectible(11114)</Down>
       </Action>
+      <Action name="Comp_Tanlorin">
+        <Down>UseCollectible(12172)</Down>
+      </Action>
+      <Action name="Comp_Zerithvar">
+        <Down>UseCollectible(12173)</Down>
+      </Action>
     </Category>
     <Category name="|cff0055-tralce's Keybinds - Throwables-|r">
       <Action name="Thro_MudBallPouch">

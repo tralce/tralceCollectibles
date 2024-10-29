@@ -1,3 +1,6 @@
+2024-10-29
+API bump. Added Tanlorin and Zerith-var. Thanks, Durnik and Mael Thagg!
+
 2024-09-12
 Added Eye of the Infinite. Thanks, Gersey! API increment.
 

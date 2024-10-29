@@ -33,6 +33,8 @@ tralceCollectibles = {
     [11114] = "Comp_Azandar",
     [11876] = "Asst_Drinweth",
     [11877] = "Asst_Tzoz",
+    [12172] = "Comp_Tanlorin",
+    [12173] = "Comp_Zerithvar",
     [12413] = "Asst_Eri",
     [12414] = "Asst_Xyn",
     -- Throwables --
