@@ -78,6 +78,9 @@
       <Action name="Asst_Eri">
         <Down>UseCollectible(12413)</Down>
       </Action>
+      <Action name="Asst_Siluruz">
+        <Down>UseCollectible(13063)</Down>
+      </Action>
     </Category>
     <Category name="|cff0055-tralce's Keybinds - Companions-|r">
       <Action name="Comp_BastianHallix">

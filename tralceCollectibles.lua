@@ -37,6 +37,7 @@ tralceCollectibles = {
     [12173] = "Comp_Zerithvar",
     [12413] = "Asst_Eri",
     [12414] = "Asst_Xyn",
+    [13063] = "Asst_Siluruz",
     -- Throwables --
     [  601] = "Thro_MudBallPouch",
     [ 1108] = "Thro_CherryBlossomBranch",

@@ -46,6 +46,7 @@ Allies
 [*]Pirharri the Smuggler
 [*]Pyroclast
 [*]Sharp-As-Night
+[*]Siluruz, Realm Craftsmaster
 [*]Tanlorin
 [*]Tythis Andromo the Banker
 [*]Tzozabrar, Dwarven Deconstructor

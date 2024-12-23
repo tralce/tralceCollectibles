@@ -1,3 +1,6 @@
+2024-12-23
+Added Siluruz. Thanks, g0thicicecream!
+
 2024-10-29
 API bump. Added Tanlorin and Zerith-var. Thanks, Durnik and Mael Thagg!
 
